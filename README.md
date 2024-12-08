@@ -24,6 +24,8 @@ Kantz, Holger, and Thomas Schreiber (2010), [Nonlinear Time Series Analysis, 2nd
 
 Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1). Springer
 
+Kitagawa, Genshiro, and Will Gersch (1996). [Smoothness Priors Analysis of Time Series](https://link.springer.com/book/10.1007/978-1-4612-0761-0). Springer
+
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
 
 Mills, Terence C., and Raphael N. Markellos (2008). [The Econometric Modelling of Financial Time Series, 3rd ed.](https://www.cambridge.org/core/books/econometric-modelling-of-financial-time-series/2B46D5778C624AD9AD1D0D5E2AB04668), Cambridge University Press.
