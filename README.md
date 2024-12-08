@@ -18,9 +18,13 @@ Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](h
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
 
+Mills, Terence C., and Raphael N. Markellos (2008). [The Econometric Modelling of Financial Time Series, 3rd ed.](https://www.cambridge.org/core/books/econometric-modelling-of-financial-time-series/2B46D5778C624AD9AD1D0D5E2AB04668), Cambridge University Press.
+
 Reinsel, Gregory C. (1997). [Elements of Multivariate Time Series Analysis, 2nd ed.](https://link.springer.com/book/9780387406190). Springer
 
 Shumway, Robert H., and David S. Stoffer (2025). [Time Series Analysis and Its Applications: With R Examples](https://link.springer.com/book/9783031705830). Springer. [ASTSA](https://cran.r-project.org/web/packages/astsa/index.html) is the associated R package, and other code is [here](https://github.com/nickpoison/tsa5/blob/main/textRcode.md). 
+
+Taylor, Stephen J. (2007). [Modelling Financial Time Series, 2nd ed.](https://www.worldscientific.com/worldscibooks/10.1142/6578#t=aboutBook). World Scientific.
 
 Tsay, Ruey S. (2010). [Analysis of Financial Time Series, 3rd ed.](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9781118017098). Wiley. Data and codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/analysis-of-financial-time-series-3rd-edition)
 
