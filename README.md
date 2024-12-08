@@ -14,6 +14,8 @@ Hagiwara, Junichiro (2021). [Time Series Analysis for the State-Space Model with
 
 Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis). Princeton University Press. Code at Hamilton's [site](https://econweb.ucsd.edu/~jhamilto/software.htm#book)
 
+Kantz, Holger, and Thomas Schreiber (2010), [Nonlinear Time Series Analysis, 2nd. ed.](https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7). Cambridge University Press. [TISEAN](http://www.mpipks-dresden. mpg.de/∼tisean) is associated software.
+
 Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1). Springer
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
