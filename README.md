@@ -6,6 +6,8 @@ Brockwell, Peter J. and Richard A. Davis (1991). [Time Series: Theory and Method
 
 Brockwell, Peter J. and Richard A. Davis (2016). [Introduction to Time Series and Forecasting, 3rd. ed.](https://link.springer.com/book/10.1007/978-3-319-29854-2). Springer.
 
+Douc, Randal, Eric Moulines, and David Stoffer (2014). [Nonlinear Time Series: Theory, Methods and Applications with R Examples](https://www.routledge.com/Nonlinear-Time-Series-Theory-Methods-and-Applications-with-R-Examples/Douc-Moulines-Stoffer/p/book/9781466502253). Chapman & Hall. [nltsa](https://github.com/nickpoison/nltsa) is the R package associated with the book, and R code listings are [here](https://www.stat.pitt.edu/stoffer/nltsa/Rcode.html).
+
 Fan, Jianqing and Qiwei Yao (2003). [Nonlinear Time Series: Nonparametric and Parametric Methods](https://link.springer.com/book/10.1007/978-0-387-69395-8). Springer. Codes at Fan's [site](https://fan.princeton.edu/fan/nls.html).
 
 Hagiwara, Junichiro (2021). [Time Series Analysis for the State-Space Model with R/Stan](https://link.springer.com/book/10.1007/978-981-16-0711-0). Springer. Author's [repo](https://github.com/hagijyun/Time_Series_Analysis_4SSM_R_Stan).
