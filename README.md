@@ -6,3 +6,6 @@ Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/bo
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
 
+Wei, William W. S. (2019). [Time Series Analysis: Univariate and Multivariate Methods, 2nd ed.](https://www.amazon.com/Time-Analysis-Univariate-Multivariate-Methods/dp/0321322169). Pearson
+
+
