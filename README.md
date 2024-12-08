@@ -18,6 +18,8 @@ Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applicatio
 
 Reinsel, Gregory C. (1997). [Elements of Multivariate Time Series Analysis, 2nd ed.](https://link.springer.com/book/9780387406190). Springer
 
+Shumway, Robert H., and David S. Stoffer (2025). [Time Series Analysis and Its Applications: With R Examples](https://link.springer.com/book/9783031705830). Springer. [ASTSA](https://cran.r-project.org/web/packages/astsa/index.html) is the associated R package, and other code is [here](https://github.com/nickpoison/tsa5/blob/main/textRcode.md). 
+
 Tsay, Ruey S. (2010). [Analysis of Financial Time Series, 3rd ed.](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9781118017098). Wiley. Data and codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/analysis-of-financial-time-series-3rd-edition)
 
 Tsay, Ruey S. (2014). [Multivariate Time Series Analysis: with R and Financial Applications](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617755). Wiley. [MTS](https://cran.r-project.org/web/packages/MTS/index.html) is the associated R package, and other R codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/multivariate-time-series-analysis-with-r-and-financial-applications). 
