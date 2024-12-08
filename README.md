@@ -8,6 +8,8 @@ Brockwell, Peter J. and Richard A. Davis (2016). [Introduction to Time Series an
 
 Douc, Randal, Eric Moulines, and David Stoffer (2014). [Nonlinear Time Series: Theory, Methods and Applications with R Examples](https://www.routledge.com/Nonlinear-Time-Series-Theory-Methods-and-Applications-with-R-Examples/Douc-Moulines-Stoffer/p/book/9781466502253). Chapman & Hall. [nltsa](https://github.com/nickpoison/nltsa) is the R package associated with the book, and R code listings are [here](https://www.stat.pitt.edu/stoffer/nltsa/Rcode.html).
 
+Durbin, James, and Siem Jan Koopman (2012). [Time Series Analysis by State Space Methods, 2nd. ed.](https://academic.oup.com/book/16563). Oxford University Press. A paper co-authored by Koopman is [Statistical Software for State Space Methods](https://www.jstatsoft.org/article/view/v041i01).
+
 Fan, Jianqing and Qiwei Yao (2003). [Nonlinear Time Series: Nonparametric and Parametric Methods](https://link.springer.com/book/10.1007/978-0-387-69395-8). Springer. Codes at Fan's [site](https://fan.princeton.edu/fan/nls.html).
 
 Frühwirth-Schnatter, Sylvia (2006). [Finite Mixture and Markov Switching Models](https://link.springer.com/book/10.1007/978-0-387-35768-3). Springer. [Bayesf](https://statmath.wu.ac.at/~fruehwirth/monographie/) is a Matlab package associated with the book.
