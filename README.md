@@ -14,6 +14,8 @@ Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](h
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
 
+Reinsel, Gregory C. (1997). [Elements of Multivariate Time Series Analysis, 2nd ed.](https://link.springer.com/book/9780387406190). Springer
+
 Tsay, Ruey S. (2010). [Analysis of Financial Time Series, 3rd ed.](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9781118017098). Wiley. Data and codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/analysis-of-financial-time-series-3rd-edition)
 
 Tsay, Ruey S. (2014). [Multivariate Time Series Analysis: with R and Financial Applications](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617755). Wiley. [MTS](https://cran.r-project.org/web/packages/MTS/index.html) is the associated R package, and other R codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/multivariate-time-series-analysis-with-r-and-financial-applications). 
