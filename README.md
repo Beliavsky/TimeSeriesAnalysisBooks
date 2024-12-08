@@ -10,6 +10,8 @@ Douc, Randal, Eric Moulines, and David Stoffer (2014). [Nonlinear Time Series: T
 
 Fan, Jianqing and Qiwei Yao (2003). [Nonlinear Time Series: Nonparametric and Parametric Methods](https://link.springer.com/book/10.1007/978-0-387-69395-8). Springer. Codes at Fan's [site](https://fan.princeton.edu/fan/nls.html).
 
+Frühwirth-Schnatter, Sylvia (2006). [Finite Mixture and Markov Switching Models](https://link.springer.com/book/10.1007/978-0-387-35768-3). Springer. [Bayesf](https://statmath.wu.ac.at/~fruehwirth/monographie/) is a Matlab package associated with the book.
+
 Hagiwara, Junichiro (2021). [Time Series Analysis for the State-Space Model with R/Stan](https://link.springer.com/book/10.1007/978-981-16-0711-0). Springer. Author's [repo](https://github.com/hagijyun/Time_Series_Analysis_4SSM_R_Stan).
 
 Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis). Princeton University Press. Code at Hamilton's [site](https://econweb.ucsd.edu/~jhamilto/software.htm#book)
