@@ -12,6 +12,8 @@ Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/bo
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
 
+Tsay, Ruey S. (2010). [Analysis of Financial Time Series, 3rd ed.](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9781118017098). Wiley. Data and codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/analysis-of-financial-time-series-3rd-edition)
+
 Tsay, Ruey S. (2014). [Multivariate Time Series Analysis: with R and Financial Applications](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617755). Wiley. [MTS](https://cran.r-project.org/web/packages/MTS/index.html) is the associated R package, and other R codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/multivariate-time-series-analysis-with-r-and-financial-applications) 
 
 Tsay, Ruey S., and Rong Chen (2018). [Nonlinear Time Series Analysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119514312). Wiley. [NTS](https://cran.r-project.org/web/packages/NTS/index.html) is the associated R package.
