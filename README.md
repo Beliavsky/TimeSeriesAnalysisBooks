@@ -49,3 +49,5 @@ Tsay, Ruey S., and Rong Chen (2018). [Nonlinear Time Series Analysis](https://on
 Wei, William W. S. (2018). [Multivariate Time Series Analysis and Applications](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis+and+Applications-p-9781119502937). Wiley
 
 Wei, William W. S. (2019). [Time Series Analysis: Univariate and Multivariate Methods, 2nd ed.](https://www.amazon.com/Time-Analysis-Univariate-Multivariate-Methods/dp/0321322169). Pearson
+
+Weigend, Andreas S. (1994). [Time Series Prediction: Forecasting The Future And Understanding The Past](https://www.taylorfrancis.com/books/mono/10.4324/9780429492648/time-series-prediction-andreas-weigend). Routledge.
