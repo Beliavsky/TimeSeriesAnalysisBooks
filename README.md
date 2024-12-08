@@ -1,5 +1,7 @@
 # Time Series Analysis Books
 
+Box, George E. P., Gwilym M. Jenkins, Gregory C. Reinsel, and Greta M. Ljung (2015). [Time Series Analysis: Forecasting and Control, 5th ed.](https://www.wiley.com/en-us/Time+Series+Analysis%3A+Forecasting+and+Control%2C+5th+Edition-p-9781118674918). Wiley
+
 Brockwell, Peter J. and Richard A. Davis (1991). [Time Series: Theory and Methods, 2nd. ed.](https://link.springer.com/book/10.1007/978-1-4419-0320-4). Springer. ITSM2000 Windows software is available [here](https://extras.springer.com/?query=978-0-387-97429-3).
 
 Brockwell, Peter J. and Richard A. Davis (2016). [Introduction to Time Series and Forecasting, 3rd. ed.](https://link.springer.com/book/10.1007/978-3-319-29854-2). Springer.
