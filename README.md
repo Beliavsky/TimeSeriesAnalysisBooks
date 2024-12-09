@@ -34,6 +34,8 @@ Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applicatio
 
 Mills, Terence C., and Raphael N. Markellos (2008). [The Econometric Modelling of Financial Time Series, 3rd ed.](https://www.cambridge.org/core/books/econometric-modelling-of-financial-time-series/2B46D5778C624AD9AD1D0D5E2AB04668), Cambridge University Press.
 
+Prado, Raquel, Marco A. R. Ferreira, and Mike West (2021). [Time Series: Modeling, Computation, and Inference](https://www.taylorfrancis.com/books/mono/10.1201/9781351259422/time-series-raquel-prado-mike-west-marco-ferreira). CRC Press. Code at West's [site](https://www2.stat.duke.edu/~mwest/TSFCourseSoftware/).
+
 Reinsel, Gregory C. (1997). [Elements of Multivariate Time Series Analysis, 2nd ed.](https://link.springer.com/book/9780387406190). Springer
 
 Shumway, Robert H., and David S. Stoffer (2025). [Time Series Analysis and Its Applications: With R Examples](https://link.springer.com/book/9783031705830). Springer. [ASTSA](https://cran.r-project.org/web/packages/astsa/index.html) is the associated R package, and other code is [here](https://github.com/nickpoison/tsa5/blob/main/textRcode.md). 
@@ -53,3 +55,5 @@ Wei, William W. S. (2018). [Multivariate Time Series Analysis and Applications](
 Wei, William W. S. (2019). [Time Series Analysis: Univariate and Multivariate Methods, 2nd ed.](https://www.amazon.com/Time-Analysis-Univariate-Multivariate-Methods/dp/0321322169). Pearson
 
 Weigend, Andreas S. (1994). [Time Series Prediction: Forecasting The Future And Understanding The Past](https://www.taylorfrancis.com/books/mono/10.4324/9780429492648/time-series-prediction-andreas-weigend). Routledge.
+
+West, Mike, and Jeff Harrison (1997). [Bayesian Forecasting and Dynamic Models](https://link.springer.com/book/10.1007/b98971). Springer
