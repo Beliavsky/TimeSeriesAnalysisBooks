@@ -16,6 +16,8 @@ Durbin, James, and Siem Jan Koopman (2012). [Time Series Analysis by State Space
 
 Fan, Jianqing and Qiwei Yao (2003). [Nonlinear Time Series: Nonparametric and Parametric Methods](https://link.springer.com/book/10.1007/978-0-387-69395-8). Springer. Codes at Fan's [site](https://fan.princeton.edu/fan/nls.html).
 
+Franses, Philip Hans, and Dick van Dijk (2000). [Non-Linear Time Series Models in Empirical Finance](https://www.cambridge.org/core/books/nonlinear-time-series-models-in-empirical-finance/FF6720F6B34548290D813D9652FB425A). Cambridge University Press
+
 Frühwirth-Schnatter, Sylvia (2006). [Finite Mixture and Markov Switching Models](https://link.springer.com/book/10.1007/978-0-387-35768-3). Springer. [Bayesf](https://statmath.wu.ac.at/~fruehwirth/monographie/) is a Matlab package associated with the book.
 
 Gómez, Victor (2019). [Linear Time Series with MATLAB and OCTAVE](https://link.springer.com/book/10.1007/978-3-030-20790-8). Springer. [SSMMATLAB](https://www.mathworks.com/academia/books/linear-time-series-with-matlab-and-octave-gomez.html) is the associated Matlab package.
