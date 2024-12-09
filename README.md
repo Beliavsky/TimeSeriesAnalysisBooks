@@ -32,7 +32,7 @@ Hyndman, Rob J., Anne B. Koehler, J. Keith Ord, and Ralph D. Snyder (2008). [For
 
 Johansen, Søren (1995). [Likelihood-Based Inference in Cointegrated Vector Autoregressive Models](https://academic.oup.com/book/27916). Oxford University Press.
 
-Kantz, Holger, and Thomas Schreiber (2010), [Nonlinear Time Series Analysis, 2nd. ed.](https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7). Cambridge University Press. [TISEAN](http://www.mpipks-dresden.mpg.de/∼tisean) is associated software.
+Kantz, Holger, and Thomas Schreiber (2010), [Nonlinear Time Series Analysis, 2nd. ed.](https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7). Cambridge University Press. [TISEAN](http://www.mpipks-dresden.mpg.de/∼tisean) is associated software, with [tseriesChaos](https://cran.r-project.org/web/packages/tseriesChaos/index.html) a related R package.
 
 Kitagawa, Genshiro, and Will Gersch (1996). [Smoothness Priors Analysis of Time Series](https://link.springer.com/book/10.1007/978-1-4612-0761-0). Springer
 
