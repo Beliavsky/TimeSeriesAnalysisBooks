@@ -32,6 +32,8 @@ Harvey, Andrew C. (1990). [The Econometric Analysis of Time Series](https://mitp
 
 Harvey, Andrew C. (1990). [Forecasting, Structural Time Series Models and the Kalman Filter](https://www.cambridge.org/core/books/forecasting-structural-time-series-models-and-the-kalman-filter/CE5E112570A56960601760E786A5E631). Cambridge University Press.
 
+Harvey, Andrew C. (1993). [Time Series Models, 2nd ed.](https://mitpress.mit.edu/9780262082242/time-series-models/). MIT Press
+
 Harvey, Andrew C. (2013). [Dynamic Models for Volatility and Heavy Tails: With Applications to Financial and Economic Time Series](https://www.cambridge.org/us/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/dynamic-models-volatility-and-heavy-tails-applications-financial-and-economic-time-series). Cambridge University Press. [Time Series Lab](https://timeserieslab.com/) is associated software, and [GAS](https://cran.r-project.org/web/packages/GAS/index.html) is a related R package.
 
 Hyndman, Rob J., Anne B. Koehler, J. Keith Ord, and Ralph D. Snyder (2008). [Forecasting with Exponential Smoothing: the State Space Approach](https://robjhyndman.com/expsmooth/). Springer. Associated R packages are [forecast](https://cran.r-project.org/web/packages/forecast/index.html), [fable](https://cran.r-project.org/web/packages/fable/index.html), and [expsmooth](https://cran.r-project.org/web/packages/expsmooth/index.html), with R code and data at Hyndman's [site](https://robjhyndman.com/expsmooth/)
