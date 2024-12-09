@@ -28,6 +28,8 @@ Hagiwara, Junichiro (2021). [Time Series Analysis for the State-Space Model with
 
 Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis). Princeton University Press. Code at Hamilton's [site](https://econweb.ucsd.edu/~jhamilto/software.htm#book)
 
+Hyndman, Rob J., Anne B. Koehler, J. Keith Ord, and Ralph D. Snyder (2008). [Forecasting with Exponential Smoothing: the State Space Approach](https://robjhyndman.com/expsmooth/). Springer. Associated R packages are [forecast](https://cran.r-project.org/web/packages/forecast/index.html), [fable](https://cran.r-project.org/web/packages/fable/index.html), and [expsmooth](https://cran.r-project.org/web/packages/expsmooth/index.html), with R code and data at Hyndman's [site](https://robjhyndman.com/expsmooth/)
+
 Johansen, Søren (1995). [Likelihood-Based Inference in Cointegrated Vector Autoregressive Models](https://academic.oup.com/book/27916). Oxford University Press.
 
 Kantz, Holger, and Thomas Schreiber (2010), [Nonlinear Time Series Analysis, 2nd. ed.](https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7). Cambridge University Press. [TISEAN](http://www.mpipks-dresden.mpg.de/∼tisean) is associated software.
