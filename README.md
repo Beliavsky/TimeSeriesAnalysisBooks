@@ -30,6 +30,8 @@ Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/bo
 
 Hyndman, Rob J., Anne B. Koehler, J. Keith Ord, and Ralph D. Snyder (2008). [Forecasting with Exponential Smoothing: the State Space Approach](https://robjhyndman.com/expsmooth/). Springer. Associated R packages are [forecast](https://cran.r-project.org/web/packages/forecast/index.html), [fable](https://cran.r-project.org/web/packages/fable/index.html), and [expsmooth](https://cran.r-project.org/web/packages/expsmooth/index.html), with R code and data at Hyndman's [site](https://robjhyndman.com/expsmooth/)
 
+Hyndman, Rob J., and George Athanasopoulos (2021). [Forecasting: Principles and Practice, 3rd ed.](https://otexts.com/fpp3/). OTexts. [Tsibble](https://cran.r-project.org/web/packages/tsibble/index.html) and [fable](https://cran.r-project.org/web/packages/fable/index.html) are associated R packages, and the text of the book is available online.
+
 Johansen, Søren (1995). [Likelihood-Based Inference in Cointegrated Vector Autoregressive Models](https://academic.oup.com/book/27916). Oxford University Press.
 
 Kantz, Holger, and Thomas Schreiber (2010), [Nonlinear Time Series Analysis, 2nd. ed.](https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7). Cambridge University Press. [TISEAN](http://www.mpipks-dresden.mpg.de/∼tisean) is associated software, with [tseriesChaos](https://cran.r-project.org/web/packages/tseriesChaos/index.html) a related R package.
