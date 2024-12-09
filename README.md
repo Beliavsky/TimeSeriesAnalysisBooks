@@ -8,6 +8,8 @@ Brockwell, Peter J. and Richard A. Davis (2016). [Introduction to Time Series an
 
 Chris Chatfield, Chris, and Haipeng Xing (2019). [The Analysis of Time Series: An Introduction with R](https://www.routledge.com/The-Analysis-of-Time-Series-An-Introduction-with-R/Chatfield-Xing/p/book/9781498795630). CRC Press. Code [here](https://www.ams.sunysb.edu/~xing/tsRbook/functions.html).
 
+Commandeur, Jacques J.F. and Siem Jan Koopman (2007). [An Introduction to State Space Time Series Analysis](https://global.oup.com/academic/product/an-introduction-to-state-space-time-series-analysis-9780199228874?cc=us&lang=en&). Oxford Univerity Press.
+
 Cryer, Jonathan D., and Kung-Sik Chan (2008). [Time Series Analysis: With Applications in R](https://link.springer.com/book/10.1007/978-0-387-75959-3). Springer. [TSA](https://cran.r-project.org/web/packages/TSA/index.html) is the associated R package, and code and data are at Chan's [site](https://homepage.divms.uiowa.edu/~kchan/TSA.htm).
 
 De Gooijer, Jan G. (2017). [Elements of Nonlinear Time Series Analysis and Forecasting](https://link.springer.com/book/10.1007/978-3-319-43252-6). Code and data [here](https://extras.springer.com/?query=978-3-319-43251-9).
