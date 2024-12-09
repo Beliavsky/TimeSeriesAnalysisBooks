@@ -54,6 +54,8 @@ Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](h
 
 Mills, Terence C., and Raphael N. Markellos (2008). [The Econometric Modelling of Financial Time Series, 3rd ed.](https://www.cambridge.org/core/books/econometric-modelling-of-financial-time-series/2B46D5778C624AD9AD1D0D5E2AB04668), Cambridge University Press.
 
+Palma, Wilfredo (2007). [Long-Memory Time Series: Theory and Methods](https://www.wiley.com/en-us/Long-Memory+Time+Series%3A+Theory+and+Methods-p-9780470114025). Some data and R and S+ code is at the author's [site](https://www.mat.uc.cl/~wilfredo/english/).
+
 Pfaff, Bernhard (2008). [Analysis of Integrated and Cointegrated Time Series with R](https://link.springer.com/book/10.1007/978-0-387-75967-8). Springer. [Urca](https://cran.r-project.org/web/packages/urca/index.html) is an associated R package.
 
 Prado, Raquel, Marco A. R. Ferreira, and Mike West (2021). [Time Series: Modeling, Computation, and Inference](https://www.taylorfrancis.com/books/mono/10.1201/9781351259422/time-series-raquel-prado-mike-west-marco-ferreira). CRC Press. Code at West's [site](https://www2.stat.duke.edu/~mwest/TSFCourseSoftware/).
