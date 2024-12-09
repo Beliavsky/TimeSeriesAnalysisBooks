@@ -8,7 +8,7 @@ Brockwell, Peter J. and Richard A. Davis (2016). [Introduction to Time Series an
 
 Cryer, Jonathan D., and Kung-Sik Chan (2008). [Time Series Analysis: With Applications in R](https://link.springer.com/book/10.1007/978-0-387-75959-3). Springer. [TSA](https://cran.r-project.org/web/packages/TSA/index.html) is the associated R package, and code and data are at Chan's [site](https://homepage.divms.uiowa.edu/~kchan/TSA.htm).
 
-De Gooijer, Jan G. (2017). [Elements of Nonlinear Time Series Analysis and Forecasting](https://link.springer.com/book/10.1007/978-3-319-43252-6).
+De Gooijer, Jan G. (2017). [Elements of Nonlinear Time Series Analysis and Forecasting](https://link.springer.com/book/10.1007/978-3-319-43252-6). Code and data [here](https://extras.springer.com/?query=978-3-319-43251-9).
 
 Douc, Randal, Eric Moulines, and David Stoffer (2014). [Nonlinear Time Series: Theory, Methods and Applications with R Examples](https://www.routledge.com/Nonlinear-Time-Series-Theory-Methods-and-Applications-with-R-Examples/Douc-Moulines-Stoffer/p/book/9781466502253). Chapman & Hall. [nltsa](https://github.com/nickpoison/nltsa) is the R package associated with the book, and R code listings are [here](https://www.stat.pitt.edu/stoffer/nltsa/Rcode.html).
 
