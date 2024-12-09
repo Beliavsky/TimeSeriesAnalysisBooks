@@ -89,3 +89,5 @@ Wei, William W. S. (2019). [Time Series Analysis: Univariate and Multivariate Me
 Weigend, Andreas S. (1994). [Time Series Prediction: Forecasting The Future And Understanding The Past](https://www.taylorfrancis.com/books/mono/10.4324/9780429492648/time-series-prediction-andreas-weigend). Routledge.
 
 West, Mike, and Jeff Harrison (1997). [Bayesian Forecasting and Dynamic Models](https://link.springer.com/book/10.1007/b98971). Springer
+
+Woodward, Wayne A., Henry L. Gray, and Alan C. Elliott (2021). [Applied Time Series Analysis with R, 2nd ed.](https://www.routledge.com/Applied-Time-Series-Analysis-with-R/Woodward-Gray-Elliott/p/book/9781032097220). CRC Press. [Tswge](https://cran.r-project.org/web/packages/tswge/index.html) is an associated R package.
