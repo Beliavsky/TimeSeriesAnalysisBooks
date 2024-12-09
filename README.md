@@ -48,7 +48,7 @@ Reinsel, Gregory C. (1997). [Elements of Multivariate Time Series Analysis, 2nd 
 
 Shumway, Robert H., and David S. Stoffer (2025). [Time Series Analysis and Its Applications: With R Examples](https://link.springer.com/book/9783031705830). Springer. [ASTSA](https://cran.r-project.org/web/packages/astsa/index.html) is the associated R package, and other code is [here](https://github.com/nickpoison/tsa5/blob/main/textRcode.md).
 
-Svetunkov, Ivan (2024). [Forecasting and Analytics with the Augmented Dynamic Adaptive Model (ADAM)](https://www.routledge.com/Forecasting-and-Analytics-with-the-Augmented-Dynamic-Adaptive-Model-ADAM/Svetunkov/p/book/9781032590370). CRC. [Greybox] and [smooth] are associated R packages, and the text of the book is available [here](https://openforecast.org/adam/)
+Svetunkov, Ivan (2024). [Forecasting and Analytics with the Augmented Dynamic Adaptive Model (ADAM)](https://www.routledge.com/Forecasting-and-Analytics-with-the-Augmented-Dynamic-Adaptive-Model-ADAM/Svetunkov/p/book/9781032590370). CRC. [Greybox](https://cran.r-project.org/web/packages/greybox/index.html) and [smooth](https://cran.r-project.org/web/packages/smooth/index.html) are associated R packages, and the text of the book is available [here](https://openforecast.org/adam/).
 
 Taylor, Stephen J. (2007). [Modelling Financial Time Series, 2nd ed.](https://www.worldscientific.com/worldscibooks/10.1142/6578#t=aboutBook). World Scientific.
 
