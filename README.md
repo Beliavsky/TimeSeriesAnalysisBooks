@@ -28,6 +28,8 @@ Hagiwara, Junichiro (2021). [Time Series Analysis for the State-Space Model with
 
 Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/books/hardcover/9780691042893/time-series-analysis). Princeton University Press. Code at Hamilton's [site](https://econweb.ucsd.edu/~jhamilto/software.htm#book)
 
+Harvey, Andrew C. (1990). [The Econometric Analysis of Time Series](https://mitpress.mit.edu/9780262081894/the-econometric-analysis-of-time-series/). MIT Press.
+
 Harvey, Andrew C. (1990). [Forecasting, Structural Time Series Models and the Kalman Filter](https://www.cambridge.org/core/books/forecasting-structural-time-series-models-and-the-kalman-filter/CE5E112570A56960601760E786A5E631). Cambridge University Press.
 
 Harvey, Andrew C. (2013). [Dynamic Models for Volatility and Heavy Tails: With Applications to Financial and Economic Time Series](https://www.cambridge.org/us/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/dynamic-models-volatility-and-heavy-tails-applications-financial-and-economic-time-series). Cambridge University Press. [Time Series Lab](https://timeserieslab.com/) is associated software, and [GAS](https://cran.r-project.org/web/packages/GAS/index.html) is a related R package.
