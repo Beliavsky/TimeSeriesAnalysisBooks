@@ -28,11 +28,11 @@ Hamilton, James D. (1994). [Time Series Analysis](https://press.princeton.edu/bo
 
 Kantz, Holger, and Thomas Schreiber (2010), [Nonlinear Time Series Analysis, 2nd. ed.](https://www.cambridge.org/core/books/nonlinear-time-series-analysis/519783E4E8A2C3DCD4641E42765309C7). Cambridge University Press. [TISEAN](http://www.mpipks-dresden.mpg.de/∼tisean) is associated software.
 
-Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1). Springer
-
 Kitagawa, Genshiro, and Will Gersch (1996). [Smoothness Priors Analysis of Time Series](https://link.springer.com/book/10.1007/978-1-4612-0761-0). Springer
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
+
+Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1). Springer
 
 Mills, Terence C., and Raphael N. Markellos (2008). [The Econometric Modelling of Financial Time Series, 3rd ed.](https://www.cambridge.org/core/books/econometric-modelling-of-financial-time-series/2B46D5778C624AD9AD1D0D5E2AB04668), Cambridge University Press.
 
@@ -43,6 +43,8 @@ Reinsel, Gregory C. (1997). [Elements of Multivariate Time Series Analysis, 2nd 
 Shumway, Robert H., and David S. Stoffer (2025). [Time Series Analysis and Its Applications: With R Examples](https://link.springer.com/book/9783031705830). Springer. [ASTSA](https://cran.r-project.org/web/packages/astsa/index.html) is the associated R package, and other code is [here](https://github.com/nickpoison/tsa5/blob/main/textRcode.md). 
 
 Taylor, Stephen J. (2007). [Modelling Financial Time Series, 2nd ed.](https://www.worldscientific.com/worldscibooks/10.1142/6578#t=aboutBook). World Scientific.
+
+Teräsvirta, Timo, Dag Tjøstheim, and Clive W. J. Granger (2010). [Modelling Nonlinear Economic Time Series](https://academic.oup.com/book/11310). Oxford University Press.
 
 Tong, Howell (1993). [Non-Linear Time Series: A Dynamical System Approach](https://global.oup.com/academic/product/non-linear-time-series-9780198523000?cc=us&lang=en&). Oxford University Press.
 
