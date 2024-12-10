@@ -58,6 +58,8 @@ Mills, Terence C., and Raphael N. Markellos (2008). [The Econometric Modelling o
 
 Palma, Wilfredo (2007). [Long-Memory Time Series: Theory and Methods](https://www.wiley.com/en-us/Long-Memory+Time+Series%3A+Theory+and+Methods-p-9780470114025). Some data and R and S+ code is at the author's [site](https://www.mat.uc.cl/~wilfredo/english/).
 
+Peña, Daniel, and Ruey S. Tsay (2021). [Statistical Learning for Big Dependent Data](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119417408). Wiley. [SLBDD](https://cran.r-project.org/web/packages/SLBDD/index.html) is the associated R package.
+
 Pfaff, Bernhard (2008). [Analysis of Integrated and Cointegrated Time Series with R](https://link.springer.com/book/10.1007/978-0-387-75967-8). Springer. [Urca](https://cran.r-project.org/web/packages/urca/index.html) is an associated R package.
 
 Prado, Raquel, Marco A. R. Ferreira, and Mike West (2021). [Time Series: Modeling, Computation, and Inference](https://www.taylorfrancis.com/books/mono/10.1201/9781351259422/time-series-raquel-prado-mike-west-marco-ferreira). CRC Press. Code at West's [site](https://www2.stat.duke.edu/~mwest/TSFCourseSoftware/).
