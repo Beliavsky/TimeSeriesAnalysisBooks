@@ -36,9 +36,11 @@ Harvey, Andrew C. (1990). [The Econometric Analysis of Time Series](https://mitp
 
 Harvey, Andrew C. (1990). [Forecasting, Structural Time Series Models and the Kalman Filter](https://www.cambridge.org/core/books/forecasting-structural-time-series-models-and-the-kalman-filter/CE5E112570A56960601760E786A5E631). Cambridge University Press.
 
-Harvey, Andrew C. (1993). [Time Series Models, 2nd ed.](https://mitpress.mit.edu/9780262082242/time-series-models/). MIT Press
+Harvey, Andrew C. (1993). [Time Series Models, 2nd ed.](https://mitpress.mit.edu/9780262082242/time-series-models/). MIT Press.
 
 Harvey, Andrew C. (2013). [Dynamic Models for Volatility and Heavy Tails: With Applications to Financial and Economic Time Series](https://www.cambridge.org/us/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/dynamic-models-volatility-and-heavy-tails-applications-financial-and-economic-time-series). Cambridge University Press. [Time Series Lab](https://timeserieslab.com/) is associated software, and [GAS](https://cran.r-project.org/web/packages/GAS/index.html) is a related R package.
+
+Uwe Hassler, Uwe (2018). [Time Series Analysis with Long Memory in View](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119470380). Wiley.
 
 Huang, Changquan, and Alla Petukhina (2022). [Applied Time Series Analysis and Forecasting with Python](https://link.springer.com/book/10.1007/978-3-031-13584-2). [PythonTsa](https://pypi.org/project/PythonTsa/) is the associated Python package, with other code at Petukhina's [repo](https://github.com/allapetukhina/TSP).
 
