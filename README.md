@@ -22,6 +22,8 @@ Durbin, James, and Siem Jan Koopman (2012). [Time Series Analysis by State Space
 
 Fan, Jianqing and Qiwei Yao (2003). [Nonlinear Time Series: Nonparametric and Parametric Methods](https://link.springer.com/book/10.1007/978-0-387-69395-8). Springer. Codes at Fan's [site](https://fan.princeton.edu/fan/nls.html).
 
+Francq, Christian, and Jean-Michel Zakoian (2019). [GARCH Models: Structure, Statistical Inference and Financial Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119313472). Wiley. R and Fortran codes are at Francq's [site](http://christian.francq140.free.fr/Christian-Francq/book-GARCH.html).
+
 Franses, Philip Hans, and Dick van Dijk (2000). [Non-Linear Time Series Models in Empirical Finance](https://www.cambridge.org/core/books/nonlinear-time-series-models-in-empirical-finance/FF6720F6B34548290D813D9652FB425A). Cambridge University Press
 
 Frühwirth-Schnatter, Sylvia (2006). [Finite Mixture and Markov Switching Models](https://link.springer.com/book/10.1007/978-0-387-35768-3). Springer. [Bayesf](https://statmath.wu.ac.at/~fruehwirth/monographie/) is a Matlab package associated with the book.
