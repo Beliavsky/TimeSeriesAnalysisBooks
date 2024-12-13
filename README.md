@@ -88,6 +88,8 @@ Teräsvirta, Timo, Dag Tjøstheim, and Clive W. J. Granger (2010). [Modelling No
 
 Tong, Howell (1993). [Non-Linear Time Series: A Dynamical System Approach](https://global.oup.com/academic/product/non-linear-time-series-9780198523000?cc=us&lang=en&). Oxford University Press.
 
+Triantafyllopoulos, Kostas (2021). [Bayesian Inference of State Space Models: Kalman Filtering and Beyond](https://link.springer.com/book/10.1007/978-3-030-76124-0). Springer.
+
 Tsay, Ruey S. (2010). [Analysis of Financial Time Series, 3rd ed.](https://www.wiley.com/en-us/Analysis+of+Financial+Time+Series%2C+3rd+Edition-p-9781118017098). Wiley. Data and codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/analysis-of-financial-time-series-3rd-edition)
 
 Tsay, Ruey S. (2014). [Multivariate Time Series Analysis: with R and Financial Applications](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis%3A+With+R+and+Financial+Applications-p-9781118617755). Wiley. [MTS](https://cran.r-project.org/web/packages/MTS/index.html) is the associated R package, and other R codes are at the author's [site](https://faculty.chicagobooth.edu/ruey-s-tsay/research/multivariate-time-series-analysis-with-r-and-financial-applications). 
