@@ -99,3 +99,5 @@ Weigend, Andreas S. (1994). [Time Series Prediction: Forecasting The Future And 
 West, Mike, and Jeff Harrison (1997). [Bayesian Forecasting and Dynamic Models](https://link.springer.com/book/10.1007/b98971). Springer
 
 Woodward, Wayne A., Henry L. Gray, and Alan C. Elliott (2021). [Applied Time Series Analysis with R, 2nd ed.](https://www.routledge.com/Applied-Time-Series-Analysis-with-R/Woodward-Gray-Elliott/p/book/9781032097220). CRC Press. [Tswge](https://cran.r-project.org/web/packages/tswge/index.html) is an associated R package.
+
+Zeng, Yong, and Shu Wu (2013). [State-Space Models: Applications in Economics and Finance](https://link.springer.com/book/10.1007/978-1-4614-7789-1). Springer. Part I includes three chapters on Particle Filtering and Parameter Learning in Nonlinear State-Space Models. Part II includes four chapters on the application of Linear State-Space Models in Macroeconomics and Finance. Part III includes five chapters on Hidden Markov Models (HMM), Regime Switching, and Mathematical Finance.
