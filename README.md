@@ -44,6 +44,9 @@ Harvey, Andrew C. (1990). [Forecasting, Structural Time Series Models and the Ka
 
 Harvey, Andrew C. (1993). [Time Series Models, 2nd ed.](https://mitpress.mit.edu/9780262082242/time-series-models/). MIT Press.
 
+Harvey, Andrew C., Siem Jan Koopman, and Neil Shephard, editors (2004). [State Space and Unobserved Component Models:
+Theory and Applications](https://www.cambridge.org/core/books/state-space-and-unobserved-component-models/5F88EE787410BBA3167BC4E800B5F707). Cambridge University Press.
+
 Harvey, Andrew C. (2013). [Dynamic Models for Volatility and Heavy Tails: With Applications to Financial and Economic Time Series](https://www.cambridge.org/us/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/dynamic-models-volatility-and-heavy-tails-applications-financial-and-economic-time-series). Cambridge University Press. [Time Series Lab](https://timeserieslab.com/) is associated software, and [GAS](https://cran.r-project.org/web/packages/GAS/index.html) is a related R package.
 
 Hassler, Uwe (2018). [Time Series Analysis with Long Memory in View](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119470380). Wiley.
