@@ -93,6 +93,8 @@ Takahashi, Makoto, Yasuhiro Omori, Toshiaki Watanabe (2023). [Stochastic Volatil
 
 Taylor, Stephen J. (2007). [Modelling Financial Time Series, 2nd ed.](https://www.worldscientific.com/worldscibooks/10.1142/6578#t=aboutBook). World Scientific.
 
+Taylor, Stephen J. (2011). [Asset Price Dynamics, Volatility, and Prediction](https://press.princeton.edu/books/paperback/9780691134796/asset-price-dynamics-volatility-and-prediction). Princeton Univerity Press.
+
 Teräsvirta, Timo, Dag Tjøstheim, and Clive W. J. Granger (2010). [Modelling Nonlinear Economic Time Series](https://academic.oup.com/book/11310). Oxford University Press.
 
 Tong, Howell (1993). [Non-Linear Time Series: A Dynamical System Approach](https://global.oup.com/academic/product/non-linear-time-series-9780198523000?cc=us&lang=en&). Oxford University Press.
