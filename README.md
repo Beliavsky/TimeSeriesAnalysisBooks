@@ -84,6 +84,8 @@ Shumway, Robert H., and David S. Stoffer (2025). [Time Series Analysis and Its A
 
 Svetunkov, Ivan (2024). [Forecasting and Analytics with the Augmented Dynamic Adaptive Model (ADAM)](https://www.routledge.com/Forecasting-and-Analytics-with-the-Augmented-Dynamic-Adaptive-Model-ADAM/Svetunkov/p/book/9781032590370). CRC. [Greybox](https://cran.r-project.org/web/packages/greybox/index.html) and [smooth](https://cran.r-project.org/web/packages/smooth/index.html) are associated R packages, and the text of the book is available [here](https://openforecast.org/adam/).
 
+Takahashi, Makoto, Yasuhiro Omori, Toshiaki Watanabe (2023). [Stochastic Volatility and Realized Stochastic Volatility Models](https://link.springer.com/book/10.1007/978-981-99-0935-3). Springer. [ASV: Stochastic Volatility Models with or without Leverage](https://cran.r-project.org/web/packages/ASV/index.html) is an R package co-authored by Omori.
+
 Taylor, Stephen J. (2007). [Modelling Financial Time Series, 2nd ed.](https://www.worldscientific.com/worldscibooks/10.1142/6578#t=aboutBook). World Scientific.
 
 Teräsvirta, Timo, Dag Tjøstheim, and Clive W. J. Granger (2010). [Modelling Nonlinear Economic Time Series](https://academic.oup.com/book/11310). Oxford University Press.
