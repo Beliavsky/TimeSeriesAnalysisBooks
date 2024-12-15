@@ -107,6 +107,8 @@ Tsay, Ruey S. (2014). [Multivariate Time Series Analysis: with R and Financial A
 
 Tsay, Ruey S., and Rong Chen (2018). [Nonlinear Time Series Analysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119514312). Wiley. [NTS](https://cran.r-project.org/web/packages/NTS/index.html) is the associated R package.
 
+Visser, Ingmar, and Maarten Speekenbrink (2022). [Mixture and Hidden Markov Models with R](https://link.springer.com/book/10.1007/978-3-031-01440-6). [Hmmr](https://cran.r-project.org/web/packages/hmmr/index.html) and [depmixS4](https://cran.r-project.org/web/packages/depmixS4/index.html).
+
 Wei, William W. S. (2018). [Multivariate Time Series Analysis and Applications](https://www.wiley.com/en-us/Multivariate+Time+Series+Analysis+and+Applications-p-9781119502937). Wiley
 
 Wei, William W. S. (2019). [Time Series Analysis: Univariate and Multivariate Methods, 2nd ed.](https://www.amazon.com/Time-Analysis-Univariate-Multivariate-Methods/dp/0321322169). Pearson
