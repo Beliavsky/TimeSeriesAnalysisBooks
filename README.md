@@ -75,7 +75,7 @@ Peña, Daniel, and Ruey S. Tsay (2021). [Statistical Learning for Big Dependent 
 
 Petris, Giovanni, Sonia Petrone, and Patrizia Campagnoli (2009). [Dynamic Linear Models with R](https://link.springer.com/book/10.1007/b135794). Springer. [Dlm](https://cran.r-project.org/web/packages/dlm/index.html) is the associated R package.
 
-Pfaff, Bernhard (2008). [Analysis of Integrated and Cointegrated Time Series with R](https://link.springer.com/book/10.1007/978-0-387-75967-8). Springer. [Urca](https://cran.r-project.org/web/packages/urca/index.html) is an associated R package.
+Pfaff, Bernhard (2008). [Analysis of Integrated and Cointegrated Time Series with R, 2nd ed.](https://link.springer.com/book/10.1007/978-0-387-75967-8). Springer. [Urca](https://cran.r-project.org/web/packages/urca/index.html) is an associated R package.
 
 Pole, Andy, Mike West, Jeff Harrison (1994). [Applied Bayesian Forecasting and Time Series Analysis](https://www.routledge.com/Applied-Bayesian-Forecasting-and-Time-Series-Analysis/Pole-West-Harrison/p/book/9780367449384). BATS software is at West's [site](https://www2.stat.duke.edu/~mw/mwsoftware/BATS/), as is [other software](https://www2.stat.duke.edu/~mwest/softwareetc.html).
 
