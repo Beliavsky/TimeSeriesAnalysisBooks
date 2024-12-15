@@ -8,7 +8,7 @@ Brockwell, Peter J. and Richard A. Davis (1991). [Time Series: Theory and Method
 
 Brockwell, Peter J. and Richard A. Davis (2016). [Introduction to Time Series and Forecasting, 3rd. ed.](https://link.springer.com/book/10.1007/978-3-319-29854-2). Springer.
 
-Chris Chatfield, Chris, and Haipeng Xing (2019). [The Analysis of Time Series: An Introduction with R](https://www.routledge.com/The-Analysis-of-Time-Series-An-Introduction-with-R/Chatfield-Xing/p/book/9781498795630). CRC Press. Code [here](https://www.ams.sunysb.edu/~xing/tsRbook/functions.html).
+Chatfield, Chris, and Haipeng Xing (2019). [The Analysis of Time Series: An Introduction with R](https://www.routledge.com/The-Analysis-of-Time-Series-An-Introduction-with-R/Chatfield-Xing/p/book/9781498795630). CRC Press. Code [here](https://www.ams.sunysb.edu/~xing/tsRbook/functions.html).
 
 Commandeur, Jacques J.F. and Siem Jan Koopman (2007). [An Introduction to State Space Time Series Analysis](https://global.oup.com/academic/product/an-introduction-to-state-space-time-series-analysis-9780199228874?cc=us&lang=en&). Oxford Univerity Press.
 
@@ -71,6 +71,8 @@ Palma, Wilfredo (2007). [Long-Memory Time Series: Theory and Methods](https://ww
 Peña, Daniel, and Ruey S. Tsay (2021). [Statistical Learning for Big Dependent Data](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119417408). Wiley. [SLBDD](https://cran.r-project.org/web/packages/SLBDD/index.html) is the associated R package.
 
 Pfaff, Bernhard (2008). [Analysis of Integrated and Cointegrated Time Series with R](https://link.springer.com/book/10.1007/978-0-387-75967-8). Springer. [Urca](https://cran.r-project.org/web/packages/urca/index.html) is an associated R package.
+
+Pole, Andy, Mike West, Jeff Harrison (1994). [Applied Bayesian Forecasting and Time Series Analysis](https://www.routledge.com/Applied-Bayesian-Forecasting-and-Time-Series-Analysis/Pole-West-Harrison/p/book/9780367449384). BATS software is at West's [site](https://www2.stat.duke.edu/~mw/mwsoftware/BATS/), as is [other software](https://www2.stat.duke.edu/~mwest/softwareetc.html).
 
 Prado, Raquel, Marco A. R. Ferreira, and Mike West (2021). [Time Series: Modeling, Computation, and Inference](https://www.taylorfrancis.com/books/mono/10.1201/9781351259422/time-series-raquel-prado-mike-west-marco-ferreira). CRC Press. Code at West's [site](https://www2.stat.duke.edu/~mwest/TSFCourseSoftware/).
 
