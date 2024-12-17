@@ -8,6 +8,9 @@ Brockwell, Peter J. and Richard A. Davis (1991). [Time Series: Theory and Method
 
 Brockwell, Peter J. and Richard A. Davis (2016). [Introduction to Time Series and Forecasting, 3rd. ed.](https://link.springer.com/book/10.1007/978-3-319-29854-2). Springer.
 
+Casals, Jose, Alfredo Garcia-Hiernaux, Miguel Jerez, Sonia Sotoca, and A. Alexandre Trindade (2016). [State-Space Methods for Time Series Analysis
+Theory, Applications and Software](https://www.routledge.com/State-Space-Methods-for-Time-Series-Analysis-Theory-Applications-and-Software/Casals-Garcia-Hiernaux-Jerez-Sotoca-Trindade/p/book/9781482219593). CRC Press. [E4](https://www.ucm.es/e-4/) is the associated Matlab toolbox.
+
 Chatfield, Chris, and Haipeng Xing (2019). [The Analysis of Time Series: An Introduction with R](https://www.routledge.com/The-Analysis-of-Time-Series-An-Introduction-with-R/Chatfield-Xing/p/book/9781498795630). CRC Press. Code [here](https://www.ams.sunysb.edu/~xing/tsRbook/functions.html).
 
 Commandeur, Jacques J.F. and Siem Jan Koopman (2007). [An Introduction to State Space Time Series Analysis](https://global.oup.com/academic/product/an-introduction-to-state-space-time-series-analysis-9780199228874?cc=us&lang=en&). Oxford Univerity Press.
