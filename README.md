@@ -21,6 +21,8 @@ De Gooijer, Jan G. (2017). [Elements of Nonlinear Time Series Analysis and Forec
 
 Deistler, Manfred, and Wolfgang Scherrer (2022). [Time Series Models](https://link.springer.com/book/10.1007/978-3-031-13213-1). Springer
 
+Diebold, Francis (2024). [Forecasting in Economics, Business, Finance and Beyond](https://www.sas.upenn.edu/~fdiebold/Teaching221/Forecasting.pdf). Self-published, free. Course site [here](https://www.sas.upenn.edu/~fdiebold/Teaching221/econ221Penn.html), data and code [here](https://www.sas.upenn.edu/~fdiebold/Textbooks.html).
+
 Douc, Randal, Eric Moulines, and David Stoffer (2014). [Nonlinear Time Series: Theory, Methods and Applications with R Examples](https://www.routledge.com/Nonlinear-Time-Series-Theory-Methods-and-Applications-with-R-Examples/Douc-Moulines-Stoffer/p/book/9781466502253). Chapman & Hall. [nltsa](https://github.com/nickpoison/nltsa) is the R package associated with the book, and R code listings are [here](https://www.stat.pitt.edu/stoffer/nltsa/Rcode.html).
 
 Durbin, James, and Siem Jan Koopman (2012). [Time Series Analysis by State Space Methods, 2nd. ed.](https://academic.oup.com/book/16563). Oxford University Press. A paper co-authored by Koopman is [Statistical Software for State Space Methods](https://www.jstatsoft.org/article/view/v041i01).
