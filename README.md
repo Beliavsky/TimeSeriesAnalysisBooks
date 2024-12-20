@@ -76,6 +76,8 @@ Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applicatio
 
 Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1). Springer
 
+Maddala, G. S., and In-Moo Kim (2010). [Unit Roots, Cointegration, and Structural Change](https://www.cambridge.org/core/books/unit-roots-cointegration-and-structural-change/4777D0336B984F0DC9664A793F4156BE). Cambridge University Press
+
 Mills, Terence C., and Raphael N. Markellos (2008). [The Econometric Modelling of Financial Time Series, 3rd ed.](https://www.cambridge.org/core/books/econometric-modelling-of-financial-time-series/2B46D5778C624AD9AD1D0D5E2AB04668), Cambridge University Press.
 
 Palma, Wilfredo (2007). [Long-Memory Time Series: Theory and Methods](https://www.wiley.com/en-us/Long-Memory+Time+Series%3A+Theory+and+Methods-p-9780470114025). Some data and R and S+ code is at the author's [site](https://www.mat.uc.cl/~wilfredo/english/).
