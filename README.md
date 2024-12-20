@@ -41,7 +41,9 @@ Gómez, Victor (2019). [Linear Time Series with MATLAB and OCTAVE](https://link.
 
 Gouriéroux, Christian (1997). [ARCH Models and Financial Applications](https://link.springer.com/book/10.1007/978-1-4612-1860-9). Springer.
 
-Granger, C. W. J., and Michio Hatanaka (1964). [Spectral Analysis of Economic Time Series](https://press.princeton.edu/books/hardcover/9780691651323/spectral-analysis-of-economic-time-series-psme-1). Princeton Univerity Press
+Granger, C. W. J., and Michio Hatanaka (1964). [Spectral Analysis of Economic Time Series](https://press.princeton.edu/books/hardcover/9780691651323/spectral-analysis-of-economic-time-series-psme-1). Princeton University Press
+
+Engle, Robert F., and C. W. J. Granger (1992). [Long-Run Economic Relationships: Readings in Cointegration](https://global.oup.com/academic/product/long-run-economic-relationships-9780198283393?cc=us&lang=en&). Oxford University Press.
 
 Hagiwara, Junichiro (2021). [Time Series Analysis for the State-Space Model with R/Stan](https://link.springer.com/book/10.1007/978-981-16-0711-0). Springer. Author's [repo](https://github.com/hagijyun/Time_Series_Analysis_4SSM_R_Stan).
 
