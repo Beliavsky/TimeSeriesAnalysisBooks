@@ -80,6 +80,8 @@ Kitagawa, Genshiro, and Will Gersch (1996). [Smoothness Priors Analysis of Time 
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367494247). Routledge. A related R package is [TSSS](https://cran.r-project.org/web/packages/TSSS/index.html) (Time Series Analysis with State Space Model)
 
+Li, Ta-Hsin (2014). [Time Series with Mixed Spectra](https://www.taylorfrancis.com/books/mono/10.1201/b15154/time-series-mixed-spectra-ta-hsin-li). CRC Press. [Qfa](https://cran.r-project.org/web/packages/qfa/index.html) is the associated R package.
+
 Lütkepohl, Helmut (2005). [New Introduction to Multiple Time Series Analysis](https://link.springer.com/book/10.1007/978-3-540-27752-1). Springer
 
 Maddala, G. S., and In-Moo Kim (2010). [Unit Roots, Cointegration, and Structural Change](https://www.cambridge.org/core/books/unit-roots-cointegration-and-structural-change/4777D0336B984F0DC9664A793F4156BE). Cambridge University Press
