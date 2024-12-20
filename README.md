@@ -94,6 +94,8 @@ Pole, Andy, Mike West, Jeff Harrison (1994). [Applied Bayesian Forecasting and T
 
 Prado, Raquel, Marco A. R. Ferreira, and Mike West (2021). [Time Series: Modeling, Computation, and Inference](https://www.taylorfrancis.com/books/mono/10.1201/9781351259422/time-series-raquel-prado-mike-west-marco-ferreira). CRC Press. Code at West's [site](https://www2.stat.duke.edu/~mwest/TSFCourseSoftware/).
 
+Rao, B. Bhaskara (1994). [Cointegration for the Applied Economist](https://link.springer.com/book/10.1007/978-1-349-23529-2). Springer
+
 Reinsel, Gregory C. (1997). [Elements of Multivariate Time Series Analysis, 2nd ed.](https://link.springer.com/book/9780387406190). Springer
 
 Robinson, Peter M. (2003). [Time Series With Long Memory](https://academic.oup.com/book/51958). Oxford University Press
