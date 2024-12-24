@@ -1,5 +1,7 @@
 # Time Series Analysis Books
 
+Barnett, William A., David F. Hendry, Svend Hylleberg, Timo Teräsvirta, Dag Tjøstheim, and Allan Würtz (2006). [Nonlinear Econometric Modeling in Time Series](https://www.cambridge.org/us/universitypress/subjects/economics/econometrics-statistics-and-mathematical-economics/nonlinear-econometric-modeling-time-series-proceedings-eleventh-international-symposium-economic-theory). Cambridge University Press.
+
 Beran, Jan, Yuanhua Feng, Sucharita Ghosh, and Rafal Kulik (2013). [Long-Memory Processes: Probabilistic Properties and Statistical Methods](https://link.springer.com/book/10.1007/978-3-642-35512-7). Springer.
 
 Bosq, Denis (1998). [Nonparametric Statistics for Stochastic Processes: Estimation and Prediction](https://link.springer.com/book/10.1007/978-1-4612-1718-3). Springer.
