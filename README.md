@@ -66,6 +66,8 @@ Harvey, Andrew C. (2013). [Dynamic Models for Volatility and Heavy Tails: With A
 
 Hassler, Uwe (2018). [Time Series Analysis with Long Memory in View](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119470380). Wiley.
 
+Horváth, Lajos, and Gregory Rice (2024). [Change Point Analysis for Time Series](https://link.springer.com/book/10.1007/978-3-031-51609-2). Springer. [FChange: Functional Change Point Detection and Analysis](https://cran.r-project.org/web/packages/fChange/index.html) is an associated R package.
+
 Huang, Changquan, and Alla Petukhina (2022). [Applied Time Series Analysis and Forecasting with Python](https://link.springer.com/book/10.1007/978-3-031-13584-2). [PythonTsa](https://pypi.org/project/PythonTsa/) is the associated Python package, with other code at Petukhina's [repo](https://github.com/allapetukhina/TSP).
 
 Hyndman, Rob J., Anne B. Koehler, J. Keith Ord, and Ralph D. Snyder (2008). [Forecasting with Exponential Smoothing: the State Space Approach](https://robjhyndman.com/expsmooth/). Springer. Associated R packages are [forecast](https://cran.r-project.org/web/packages/forecast/index.html), [fable](https://cran.r-project.org/web/packages/fable/index.html), and [expsmooth](https://cran.r-project.org/web/packages/expsmooth/index.html), with R code and data at Hyndman's [site](https://robjhyndman.com/expsmooth/)
