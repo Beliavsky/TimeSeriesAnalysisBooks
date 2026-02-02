@@ -39,7 +39,7 @@ Franses, Philip Hans, and Dick van Dijk (2000). [Non-Linear Time Series Models i
 
 Frühwirth-Schnatter, Sylvia (2006). [Finite Mixture and Markov Switching Models](https://link.springer.com/book/10.1007/978-0-387-35768-3). Springer. [Bayesf](https://statmath.wu.ac.at/~fruehwirth/monographie/) is a Matlab package associated with the book.
 
-Ghysels, Eric, and Massimiliano Marcellino (2018). [Applied Economic Forecasting using Time Series Methods](https://eghysels.web.unc.edu/). Code in R, Python, and Eview at site.
+Ghysels, Eric, and Massimiliano Marcellino (2018). [Applied Economic Forecasting using Time Series Methods](https://eghysels.web.unc.edu/). Code in R, Python, and Eviews at site.
 
 Gómez, Victor (2019). [Linear Time Series with MATLAB and OCTAVE](https://link.springer.com/book/10.1007/978-3-030-20790-8). Springer. [SSMMATLAB](https://www.mathworks.com/academia/books/linear-time-series-with-matlab-and-octave-gomez.html) is the associated Matlab package.
 
