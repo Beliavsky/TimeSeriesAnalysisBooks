@@ -68,6 +68,8 @@ Harvey, Andrew C. (2013). [Dynamic Models for Volatility and Heavy Tails: With A
 
 Hassler, Uwe (2018). [Time Series Analysis with Long Memory in View](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119470380). Wiley.
 
+Hipel, Keith W. and A. Ian McLeod (2005). [Time Series Modelling of Water Resources and Environmental Systems](https://www.stats.uwo.ca/faculty/aim/1994Book/default.htm). [ltsa](https://cran.r-project.org/web/packages/ltsa/index.html) is an associated R package.
+
 Horváth, Lajos, and Gregory Rice (2024). [Change Point Analysis for Time Series](https://link.springer.com/book/10.1007/978-3-031-51609-2). Springer. [FChange: Functional Change Point Detection and Analysis](https://cran.r-project.org/web/packages/fChange/index.html) is an associated R package.
 
 Huang, Changquan, and Alla Petukhina (2022). [Applied Time Series Analysis and Forecasting with Python](https://link.springer.com/book/10.1007/978-3-031-13584-2). [PythonTsa](https://pypi.org/project/PythonTsa/) is the associated Python package, with other code at Petukhina's [repo](https://github.com/allapetukhina/TSP).
